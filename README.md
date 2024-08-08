@@ -1,6 +1,6 @@
 # **5 classes fine-grained Text Classification Amazon Reviews 40% LSTM**
 
-#picture
+![18](https://github.com/user-attachments/assets/b36b9073-4115-4fc1-ae6b-4e3d08757ea0)
 
 1. Download and Imports
 2. Functions
